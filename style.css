@@ -74,7 +74,7 @@ body * {
   animation: slide-in 0.2s forwards;
 }
 
-#switch button:hover{
+#switch button:hover {
   outline: 8px solid var(--highlight-color);
 }
 
@@ -155,8 +155,8 @@ footer {
   from {
     left: 0;
   }
-  to{
-    left:50%;
+  to {
+    left: 50%;
   }
 }
 
@@ -164,7 +164,7 @@ footer {
   from {
     left: 50%;
   }
-  to{
-    left:0%;
+  to {
+    left: 0%;
   }
 }
